@@ -1,2 +1,2 @@
 # Amazon Products Ranking
-Thesis project to optimize e-commerce product ranking &amp; SEO strategy for Amazon 
+This repository stores my thesis project about optimizing product ranking on Amazon using GBT LambdaMART to predict the ranking and analyze the feature importance to suggest SEO strategy for sellers
